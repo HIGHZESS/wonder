@@ -1,3 +1,6 @@
+<img width="1265" alt="wonder_main" src="https://user-images.githubusercontent.com/105254085/235054731-a630aa0f-da66-4480-8f59-103e38c36b7a.png">
+
+
 # Wonder(원더) 프로젝트A
 > 프리랜서 개발자를 위한 중개 서비스 플랫폼
 
@@ -17,11 +20,31 @@
 대상
  * 프리랜서 개발자 (front-end, back-end)
 
+<br>
+
+## 사용된 기술들
+### BackEnd   
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jstl-007396?style=for-the-badge&logo=jstl&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SqlDeveloper-548294?style=for-the-badge&logo=sqldeveloper&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MyBatis-black?style=for-the-badge&logo=bybatis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>   
+### FrontEnd   
+<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>   
+### Common   
+<img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/iamport-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
+
+<br>
+
 ## 기여자 목록
 
-[@hyokker](https://github.com/hyokker)  
-[@LeeJ1Hyun](https://github.com/LeeJ1Hyun)  
-[@HIGHZESS](https://github.com/HIGHZESS)  
-[@hyunsooyk](https://github.com/hyunsooyk)  
-[@maiload](https://github.com/maiload)  
-[@SeoWk](https://github.com/SeoWk)
+### 기능 설명
+
+- [1. 메인 페이지 화면 구현](https://github.com/hyokker/wonder/blob/main/%EA%B5%AC%ED%98%84%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%EA%B5%AC%ED%98%84.md)
