@@ -51,4 +51,5 @@
 - [3. 내정보페이지 즐겨찾기](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_bookmark.md)
 - [4. 내정보페이지 거래내역](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_transaction.md)
 - [5. 내정보페이지 채팅(메세지)](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_chatting.md)
+- [6. 내정보페이지 암호변경](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_changePwd.md)
 
