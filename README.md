@@ -49,5 +49,6 @@
 
 - [1. 내정보페이지 메인화면](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_profile.md)
 - [2. 내정보페이지 포트폴리오](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_portfolio.md)
+- [3. 내정보페이지 즐겨찾기](https://github.com/HIGHZESS/wonder/blob/main/%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/mypage_bookmark.md)
 
 
